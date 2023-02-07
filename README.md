@@ -1,3 +1,14 @@
+## Fork notice
+
+The upstream project seems dead and I haven't been able to reach the maintainer
+so I'm creating this fork to hopefully get some PR's merged and eventually
+release a new version to npm.
+
+The original README.md has been removed for now since this fork isn't published
+to npm and the "Getting started" instructions would just be misleading.
+
+<!--
+
 # [React Mentions](https://react-mentions.vercel.app)
 
 A React component that let's you mention people in a textarea like you are used to on Facebook or Twitter.
@@ -98,3 +109,5 @@ We recommend using [@testing-library/user-event](https://github.com/testing-libr
 
 If you want to contribute, first of all: thank you ❤️.
 Please check [CONTRIBUTING.md](/CONTRIBUTING.md) and/or create an issue.
+
+-->
